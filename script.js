@@ -1,4 +1,4 @@
-// In Progress
+// Call the objects in the html file
 
 var testWrapper = document.querySelector(".test-wrapper");
 var testArea = document.querySelector("#test-area");
